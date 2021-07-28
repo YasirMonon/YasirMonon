@@ -2,11 +2,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and Trying to find out the solutions and quick hacks.
+- :computer: I just love `Exploring New Things` - and - `Quick Solutions` 🤔
 - 🎓 &nbsp; Was Student of English Literature, but my dreams brought me here.
 - 💼 &nbsp; I'm Professional Content Writer and Author of Four Books so far.
 - 🌱 &nbsp; Learning more about Web Development, Web and UI Design.
 - ✍️ &nbsp; Pursuing Graphic Design and Article Writing as hobbies/side hustles.
+- :computer: Favourite Line `git commit -"First Commit` - and - `git push` 🤔
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
