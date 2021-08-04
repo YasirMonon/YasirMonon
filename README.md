@@ -37,8 +37,8 @@
 <br/>
 
 <a href="https://github.com/YasirMonon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasirMonon&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirMonon&theme=buefy&layout=compact" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=YasirMonon&theme=buefy&show_icons=true" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirMonon&theme=buefy&layout=compact" />
 </a>
 
 <br/>
