@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=186CF7&size=18&lines=Hello+%F0%9F%96%90;This+is+Yasir+Monon..;Welcome+to+My+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=186CF7&size=18&lines=Hello+%F0%9F%96%90;This+is+Yasir+Monon..;Welcome+to+My+Profile..)](https://www.yasirmonon.com/)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
